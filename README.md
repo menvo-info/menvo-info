@@ -2,6 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=HI,+I'M+VO+NGOC+MEN+%F0%9F%91%8B;EMBEDDED_SOFTWARE_ENGINEER;HARDWARE_MEETS_SOFTWARE;DEBUG_UNTIL_IT_MAKES_SENSE" alt="Typing SVG" />
 </p>
 
+## 📫 CONTACT
+
+<p align="center">
+  <a href="mailto:menthcstk@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/menvo-embedded"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://menvo-embedded.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+  <a href="https://www.instagram.com/menvox_/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@mv_indie"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://github.com/menvo-embedded"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 ---
 
 <table>
@@ -89,17 +100,6 @@ Born in **2005 in Dong Thap**, I grew up loving geometry, which led me to the **
 </picture>
 
 ---
-
-## 📫 CONTACT
-
-<p align="center">
-  <a href="mailto:menthcstk@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/menvo-embedded"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://menvo-embedded.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
-  <a href="https://www.instagram.com/menvox_/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@mv_indie"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://github.com/menvo-embedded"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:1a1b27&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling" />
