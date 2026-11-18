@@ -47,8 +47,18 @@ My ongoing LeetCode practice as part of the **AK Foundation Embedded Training Pr
 
 ## Find me online
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-2A6F97?style=flat&logo=googlechrome&logoColor=white)](https://menvo-embedded.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-menvo--embedded-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menvo-embedded/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:menthcstk@gmail.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,py,opencv,linux,git,github,vscode" />
+</p>
 
-Thanks for visiting! I'm using GitHub to share real projects, lessons learned, and my progress toward working in embedded systems.
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-learning-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-5BA300?style=flat)
+![Verilog](https://img.shields.io/badge/Verilog-Vivado-FF6600?style=flat)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=platformio&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE%20%7C%20MQTT%20%7C%20UART%20%7C%20I2C%20%7C%20SPI-555?style=flat)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-menvo--embedded-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/menvo-embedded)
+[![Portfolio](https://img.shields.io/badge/Portfolio-menvo--embedded.github.io-222?style=flat&logo=githubpages)](https://menvo-embedded.github.io/)
+[![Email](https://img.shields.io/badge/Email-menthcstk%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:menthcstk@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-menvox__-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/menvox_/)
