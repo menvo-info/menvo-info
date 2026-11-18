@@ -7,10 +7,10 @@
 <p align="center">
   <a href="mailto:menthcstk@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/menvo-embedded"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://menvo-embedded.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+  <a href="https://menvo-info.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
   <a href="https://www.instagram.com/menvox_/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@mv_indie"><img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://github.com/menvo-embedded"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/menvo-info"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,8 +31,8 @@ I'm an **Embedded Software Engineer** with a background in **Computer Engineerin
 I enjoy working with real boards and digging into why something doesn't behave as expected, because understanding things down to the low level is what makes firmware **reliable and predictable**. Outside of work, you'll usually find me behind a camera.
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/menvo-embedded?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=1a1b27" />
-  <img src="https://komarev.com/ghpvc/?username=menvo-embedded&label=PROFILE_VIEWS&color=00D9FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/menvo-info?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=1a1b27" />
+  <img src="https://komarev.com/ghpvc/?username=menvo-info&label=PROFILE_VIEWS&color=00D9FF&style=for-the-badge" />
 </p>
 
 </td>
@@ -82,11 +82,11 @@ Born in **2005 in Dong Thap**, I grew up loving geometry, which led me to the **
 ## 📊 GIT STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menvo-embedded&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menvo-info&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=menvo-embedded&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=menvo-embedded&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=menvo-info&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=menvo-info&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -94,9 +94,9 @@ Born in **2005 in Dong Thap**, I grew up loving geometry, which led me to the **
 ## 👾 CONTRIBUTION GRAPH
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menvo-embedded/menvo-embedded/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menvo-embedded/menvo-embedded/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/menvo-embedded/menvo-embedded/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menvo-info/menvo-info/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menvo-info/menvo-info/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/menvo-info/menvo-info/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
