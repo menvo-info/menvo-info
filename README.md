@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=HI,+I'M+VO+NGOC+MEN+%F0%9F%91%8B;EMBEDDED_SOFTWARE_ENGINEER;HARDWARE_MEETS_SOFTWARE;DEBUG_UNTIL_IT_MAKES_SENSE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=HI,+I'M+VO+NGOC+MEN+%F0%9F%91%8B;FUTURE_EMBEDDED_ENGINEER;HARDWARE_MEETS_SOFTWARE;DEBUG_UNTIL_IT_MAKES_SENSE" alt="Typing SVG" />
 </p>
 
 ## 📫 CONTACT
@@ -26,9 +26,7 @@
 
 ### 🙋 ABOUT ME
 
-I'm an **Embedded Software Engineer** with a background in **Computer Engineering from HCMUTE**, working across **microcontrollers, embedded firmware, and FPGA**, the space where hardware meets software.
-
-I enjoy working with real boards and digging into why something doesn't behave as expected, because understanding things down to the low level is what makes firmware **reliable and predictable**. Outside of work, you'll usually find me behind a camera.
+Final-year **Computer Engineering** student at **HCMUTE**, working on **embedded firmware and microcontrollers**. Off duty, I'm an amateur filmmaker who loves shooting and color grading.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/menvo-info?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=1a1b27" />
@@ -51,7 +49,7 @@ Born in **2005 in Dong Thap**, I grew up loving geometry, which led me to the **
 
 **Currently**, I'm learning **STM32 and the AK event-driven framework** through the AK Foundation training program, along with **FreeRTOS** and **wireless sensor networks** on the Raspberry Pi Pico 2 W, aiming to build a solid foundation in embedded programming.
 
-<p align="center"><i>"Every bug has a reason. You just have to keep digging until you find it."</i></p>
+<p align="center"><i>"A little better every day."</i></p>
 
 </td>
 <td width="40%" align="center" valign="top">
